@@ -2,4 +2,4 @@ Réponse question 4 exercice 1
 ALTER TABLE `tranche` ADD `description` VARCHAR(50) NOT NULL AFTER `tarifunit`;
 
 
-Avec Uwamp j'ai toujours le même problème je ne peut pas créer de clés étrangères. Pour la question 1) j'ai quand même réussi à m'en sortir pour avoir le résultat attendu.
+Avec Uwamp j'ai toujours le même problème je ne peux pas créer de clés étrangères. Pour la question 1) j'ai quand même réussi à m'en sortir pour avoir le résultat attendu.
