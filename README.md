@@ -1,4 +1,4 @@
-Réponse question 4 Partie I \n
+Réponse question 4 Partie I '\n'
 ALTER TABLE `tranche` ADD `description` VARCHAR(50) NOT NULL AFTER `tarifunit`;
 
 
